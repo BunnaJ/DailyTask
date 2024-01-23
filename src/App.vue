@@ -233,6 +233,9 @@ textarea{
   .main{
     border-radius: 5px;
   }
+  .display button{
+    color: black;
+  }
 
 }
 </style>
